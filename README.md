@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo4276
-Fork on GitHub795
+
 <h1 align="center">Hi 👋, I'm Ajmin Pradhan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
@@ -39,27 +36,3 @@ Fork on GitHub795
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdajminpradhan&show_icons=true&locale=en" alt="mdajminpradhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdajminpradhan&" alt="mdajminpradhan" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
