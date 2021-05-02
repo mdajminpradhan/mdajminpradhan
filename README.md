@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/imajminpradhan" target="blank"><img src="https://img.shields.io/twitter/follow/imajminpradhan?logo=twitter&style=for-the-badge" alt="imajminpradhan" /></a> </p>
 
-- 🔭 I’m currently working on **A mega nodejs project**
+- 🔭 I’m currently working on **A MERN project**
 
 - 🌱 I’m currently learning **NodeJS**
 
