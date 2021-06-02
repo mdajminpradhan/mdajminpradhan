@@ -1,7 +1,14 @@
+<style>
+
+  .test {
+    color: red;
+  }
+  
+</style>
 
 <img src="https://github.com/mdajminpradhan/mdajminpradhan/blob/main/Ajmin%20Pradhan%20-%20Programmer%2C%20Dreamer%20Friend.png" alt="ajmin pradhan" />
 
-<h1 align="center">Hi 👋, I'm Ajmin Pradhan</h1>
+<h1 align="center" className="test">Hi 👋, I'm Ajmin Pradhan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdajminpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdajminpradhan" /> </p>
@@ -10,15 +17,15 @@
 
 - 🔭 I’m currently working on **A MERN project**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [imajminpradhan.com](imajminpradhan.com)
+- 👨‍💻 All of my projects are available at [imajmin.netlify.app](imajmin.netlify.app)
 
 - 💬 Ask me about **React, NodeJS, HTML, CSS,**
 
 - 📫 How to reach me **ajmin@inoryum.com**
 
-- 📄 Know about my experiences [imajminpradhan.com/resume](imajminpradhan.com/resume)
+- 📄 Know about my experiences [imajmin.netlify.app](imajmin.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
