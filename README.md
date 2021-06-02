@@ -1,14 +1,7 @@
-<style>
-
-  .test {
-    color: red;
-  }
-  
-</style>
 
 <img src="https://github.com/mdajminpradhan/mdajminpradhan/blob/main/Ajmin%20Pradhan%20-%20Programmer%2C%20Dreamer%20Friend.png" alt="ajmin pradhan" />
 
-<h1 align="center" className="test">Hi 👋, I'm Ajmin Pradhan</h1>
+<h1 align="center">Hi 👋, I'm Ajmin Pradhan</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdajminpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdajminpradhan" /> </p>
