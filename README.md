@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on **A MERN project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [imajmin.netlify.app](imajmin.netlify.app)
 
-- 💬 Ask me about **React, NodeJS, HTML, CSS,**
+- 💬 Ask me about **React, NEXT.js, React Native, NodeJS, Express.js MongoDB, CSS,**
 
-- 📫 How to reach me **ajmin@inoryum.com**
+- 📫 How to reach me **md.ajminpradhan@outlook.com**
 
-- 📄 Know about my experiences [imajmin.netlify.app](imajmin.netlify.app)
+- 📄 Know about my experiences [LinkedIn](http://linkedin.com/in/imajminpradhan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
