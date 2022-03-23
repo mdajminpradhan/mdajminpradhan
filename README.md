@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [imajmin.netlify.app](imajmin.netlify.app)
+- 👨‍💻 All of my projects are available at [ajminpradhan.ml](ajminpradhan.ml)
 
 - 💬 Ask me about **React, NEXT.js, React Native, NodeJS, Express.js MongoDB, CSS,**
 
