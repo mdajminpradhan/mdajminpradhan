@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **A MERN project**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS Cloud**
 
 - 👨‍💻 All of my projects are available at [https://ajminpradhan.ml](https://ajminpradhan.ml)
 
