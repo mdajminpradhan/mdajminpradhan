@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Ajmin Pradhan</h1>
 <h3 align="center">A passionate full-stack JavaScript developer</h3>
-<p>Web, Android, iOS and Desktop</p>
+<p align="center">Web, Android, iOS and Desktop</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdajminpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdajminpradhan" /> </p>
 
