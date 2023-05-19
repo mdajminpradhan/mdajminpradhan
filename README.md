@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 👨‍💻 All of my projects are available at [https://ajminpradhan.ml](https://ajminpradhan.ml)
+- 👨‍💻 All of my projects are available at [https://ajmin.vercel.app](https://ajmin.vercel.app)
 
 - 💬 Ask me about **Node, Express, NEXT.js, React Native, MongoDB, Postgres, TailwindCSS**
 
